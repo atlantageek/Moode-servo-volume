@@ -1,5 +1,5 @@
 [Unit]                                                                           
-Description=My test service                                                      
+Description=Knob Service                                                  
 After=multi-user.target                                                          
 [Service]                                                                        
 Type=simple                                                                      
