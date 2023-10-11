@@ -1,5 +1,5 @@
 [Unit]                                                                           
-Description=Knob Service                                                  
+Description=Knob service                                                      
 After=multi-user.target                                                          
 [Service]                                                                        
 Type=simple                                                                      
